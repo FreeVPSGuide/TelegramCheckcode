@@ -149,13 +149,12 @@ iOS：需要一个俄区的AppleID才能在AppStore中搜索下载。
 
 3、针对2.4.3版本的Telega，Google Play中必须关闭「Play保护机制设置」，不然打开Telega经常会跳到Google Play中检查更新。
 
-一句话解释：使用俄版Telega，直接安装这个RuStore下载的2.5.2版本即可。
-
-![](https://files.mdnice.com/user/4562/f38daadf-d97b-4fbe-967b-9e631ac2864f.png)
-
-流程非常简单，只是我踩坑太多了，后面的3个章节「1、安装Telega」、「2、安装谷歌商店」、「3、暂停“Play保护机制”」都不要看的。
+「使用俄版Telegram接收验证码」这部分教程直接安装这个RuStore下载的2.5.2版本即可。
+这部分教程非常简单，只是我踩坑太多了，后面的3个章节「1、安装Telega」、「2、安装谷歌商店」、「3、暂停“Play保护机制”」都不要看的。
 
 直接跳到第4部分「4、开始接收验证码」即可。
+
+![](https://files.mdnice.com/user/4562/f38daadf-d97b-4fbe-967b-9e631ac2864f.png)
 
 ##### 1、安装Telega
 
